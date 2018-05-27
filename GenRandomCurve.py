@@ -15,6 +15,8 @@ La presente función utiliza datos estadisticos obtenidos con las mediciones
 realizadas por UVECASE, para generar curvas aleatorias a partir de un promedio 
 y su respectiva desviacion estandar, para elllo utiliza una distribucion gaussiana.
 
+hola adding a change
+
 NOTA: Este se adapto del original para ser utilizado en el ambiente QGIS
 debido a que utiliza una versión no actualizada de python 
 """
